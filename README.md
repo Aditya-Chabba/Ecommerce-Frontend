@@ -21,6 +21,24 @@ Use " git clone " and paste repo link :-
 
 https://github.com/Aditya-Chabba/Ecommerce-Frontend.git
 
+# After Downloading 
+
+For installing react dependencies :-
+
+npm install
+
+npm run  
+
+# For deploying
+
+For installing netlify dependencies :-
+
+npm install netlify-cli -g
+
+netlify deploy
+
+netlify deploy --prod
+
 # Technology Stack
 
 React
